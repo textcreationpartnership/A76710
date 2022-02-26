@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain propositions sent by the States of Holland, to the lords embassadors of the common-wealth of England: wherein, they desire, that the ancient amity may be continued between both states; and that they may be aiding and assisting to each other, against all persons whatsoever, that shall be disturbant to them. Also, a discovery of several plots of divers English and Scotch Cavaliers; and their intentions to murther the Lord St John, Mr Fairfax, and young Dorislaus. With, the States of Hollands message to the Queen of Bohemia; concerning the uncivil behaviour of her son, Prince Edward, towards the lords embassadours and their followers: and the States Order he should be tried by a court of justice. Together with an exact diurnal of each days progress and preceedings, from the last of March, to the sixth of April. 1651. Published according to order.</title>
+            <author>Bill, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76710</idno>
+            <idno type="STC">Wing B2890</idno>
+            <idno type="STC">Thomason E626_25</idno>
+            <idno type="STC">ESTC R206570</idno>
+            <idno type="EEBO-CITATION">99865694</idno>
+            <idno type="PROQUEST">99865694</idno>
+            <idno type="VID">165838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165838)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E626[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain propositions sent by the States of Holland, to the lords embassadors of the common-wealth of England: wherein, they desire, that the ancient amity may be continued between both states; and that they may be aiding and assisting to each other, against all persons whatsoever, that shall be disturbant to them. Also, a discovery of several plots of divers English and Scotch Cavaliers; and their intentions to murther the Lord St John, Mr Fairfax, and young Dorislaus. With, the States of Hollands message to the Queen of Bohemia; concerning the uncivil behaviour of her son, Prince Edward, towards the lords embassadours and their followers: and the States Order he should be tried by a court of justice. Together with an exact diurnal of each days progress and preceedings, from the last of March, to the sixth of April. 1651. Published according to order.</title>
+                  <author>Bill, Edward.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Edward Bill.</note>
+                  <note>Annotation on Thomason copy: "Aprill 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Politics and government --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165838:1" rendition="simple:additions"/>
+            <p> CERTAIN PROPOSITIONS Sent by the STATES OF HOLLAND, TO THE Lords Embaſſadors of the Common-wealth of ENGLAND: <hi>WHEREIN,</hi> They deſire, that the ancient Amity may be continued between both States; And that they may be aiding and aſſiſting to each other, againſt all perſons whatſoever, that ſhall be diſturbant to them.</p>
+            <p>Alſo, a diſcovery of ſeveral plots of divers Engliſh and Scotch Cavaliers; And their intentions to murther the Lord S<hi rend="sup">t</hi> 
+               <hi>John,</hi> M<hi rend="sup">r</hi> 
+               <hi>Fairfax,</hi> and young <hi>Doriſlaus.</hi>
+            </p>
+            <p>With, the States of Hollands Meſſage to the Queen of <hi>Bohemia;</hi> Concerning the uncivil behaviour of her Son, Prince <hi>Edward,</hi> towards the Lords Embaſſadours and their Followers: And the States Order he ſhould be tried by a Court of <hi>Juſtice.</hi>
+            </p>
+            <p>Together with an exact Diurnal of each days Progreſs and Proceedings, from the laſt of <hi>March,</hi> to the ſixth of <hi>April.</hi> 1651.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Robert Wood.</hi> 1651.</p>
+            <pb facs="tcp:165838:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="message">
+            <pb n="1" facs="tcp:165838:2"/>
+            <head>A Meſſage ſent by the States of Hol<g ref="char:EOLhyphen"/>land, to the Queen of Bohemia; Concerning the uncivil behaviour of her ſon Prince Edward, towards the Lords Embaſſadours of Eng<g ref="char:EOLhyphen"/>land, and their Attendants.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MY laſt to you from hence, told you of the in<g ref="char:EOLhyphen"/>ſolent carriage of the Cavaliers, and divers French Deſpera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oes; which is no whit abated: For lately, as two of your Embaſſadours Gentlemen were going home in the Evening, they hapned to light upon three Frenchmen, who taking occaſion to juſtle them, without ſpeaking drew forth their Pi<g ref="char:EOLhyphen"/>ſtols and fired, but God be thanked they miſt them; whereupon my Lords Gentlemen drew, and then there aroſe a great tumult in the ſtreet, and the peo<g ref="char:EOLhyphen"/>ple having ſeparated them, demanded their cauſe of quar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el, whereupon the French to juſtifie their own
+<pb n="2" facs="tcp:165838:3"/> actions, laid the blame upon the Embaſſadours Gen<g ref="char:EOLhyphen"/>tlemen, and ſo the buſineſs was huſht up. Young <hi>Doriſlaus</hi> and a couſin of my Lord <hi>Fairfax,</hi> likewiſe named <hi>Fairfax,</hi> are threatned above all others. There are ſeveral <hi>Scotchmen</hi> likewiſe, that have taken a diveliſh Oath, proteſting the death of my Lord St. <hi>John;</hi> [threaten'd folk live long] but no doubt, the wiſdom of this State will take order to curb and quiet theſe ranting humours. Many <hi>Scots</hi> and <hi>Engliſh</hi> Cavaliers come daily ruſhing into Town, as if ſome Deſign were a brewing. And they report up and down here, that <hi>Cromwel</hi> is dead, and that <hi>Maſſey</hi> hath routed and kild two thouſand of his men, and an hundred ſuch incredible ſtories, wherein the Roya<g ref="char:EOLhyphen"/>liſts abound, even to the making of themſelves ridi<g ref="char:EOLhyphen"/>culous. Yet this doth effect ſo much, that it often puts our cautious Stateſmen to a ſtand, and makes ſome ſtagger, till they are certified by the next week or the next fortnights Poſt of the contrary; and then (perhaps) the Cavaliers have ſome other new ſtory on foot, which takes off their reſolutions for ano<g ref="char:EOLhyphen"/>ther fortnight.</p>
+            <p>The <hi>Portugal</hi> Embaſſadour hath given them a neat ſlip, and left good ſtore of debts behinde him. Many of the Engliſh Cavalry are bound for <hi>Scotland,</hi> where (they ſay) their King is gotten to be Maſter, and that all Lads whatſoever are admitted into his Ar<g ref="char:EOLhyphen"/>my; and many of them lye ready at <hi>Roterdam</hi> for a Winde to tranſport them thither. I much wondred a long time, why the Blades made ſuch enquiry up and down, if all were quiet in England, it ſeems they had a plot in conception which proved abortive.</p>
+            <pb n="3" facs="tcp:165838:3"/>
+            <p> 
+               <hi>Sir,</hi> I have likewiſe ſent you a repreſentation of our daily proceedings, which are as followeth:</p>
+            <p>The laſt of March, <hi>ſtylo novo,</hi> a Faſt was kept at my Lord Embaſſadours, to implore a bleſſing upon our preſent proceedings; Mr. <hi>Dingley,</hi> Mr. <hi>Nye,</hi> and Mr. <hi>Goodwin</hi> exerciſed ſeverally, and at ſupper we fell into an Engliſh mode of dyet, with great con<g ref="char:EOLhyphen"/>tentment and abundance; for then my Lords began the world upon their own accompt.</p>
+            <p>The firſt of <hi>April,</hi> ſome of the Gentlemen went with my Lord St. <hi>John</hi> to the new Houſe, who was not very well for want of ayr; for the old Houſe, was little and cloſe.</p>
+            <p>The ſecond, being the Lords day, we had two ſer<g ref="char:EOLhyphen"/>mons, the one preached by Mr. <hi>Nye,</hi> the other by Mr. <hi>Ding<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey;</hi> and that morning information came to my Lords, deſiring Mr. <hi>Dori<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aus</hi> to have a care of himſelf; for there were ſome threatned his life.</p>
+            <p>The third in the morning, my Lords, and moſt of the Gentlemen, ſome on horſe-back, the reſt in coa<g ref="char:EOLhyphen"/>ches, went into the Wood ſet with many fine walks and trees, to take the air; and as they entered, they met Prince <hi>Edward</hi> (one of the <hi>Queen</hi> of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohemia's</hi> ſons) walking on foot, with the Princeſs his ſiſter, by the hand. He cald to my Lords Coach, and told them they were rogues, and grinded his teeth at the reſt, calling them dogs. But my Lord St. <hi>John's</hi> Groom following on horſe-back, leading my Lords ſaddle-horſe in his hand, the Prince ſtrook him on the back parts with his hat, but the horſe flinging up his heels had like to have laid his honour at his feet. My Lord rode about the Wood, and returned to dinner.</p>
+            <pb n="4" facs="tcp:165838:4"/>
+            <p> After dinner he went abroad again, to take the ayr at <hi>Scheveling,</hi> and was much pleaſed with the place, it lying a mile from the <hi>Hague,</hi> upon the Sea<g ref="char:EOLhyphen"/>ſhore. We returned about five or ſix a clock.</p>
+            <p>The fourth, ſixe of the States who were appoint<g ref="char:EOLhyphen"/>ed Commiſſioners to treat with their Lordſhips, <hi>(viz.</hi> Mr. <hi>Cemeren, Ereren Eoon, De Vett, Reinſwood, Andree,</hi> and <hi>Valfs,)</hi> came this day the firſt time. My Lords received them at the door, and the Gentle<g ref="char:EOLhyphen"/>men went up ſtairs, and made a Lane for them to paſs through: they ſtaid about half an hour with my Lords, gave them ſome complements, and re<g ref="char:EOLhyphen"/>ceived ſome propoſitions, which they carried away with them.</p>
+            <p>It ſeems the Embaſſadours complained to ſome of the States, of the ill language which Prince <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> gave them yeſterday; whereupon it was Or<g ref="char:EOLhyphen"/>dered, that three of them ſhould go to the queen of <hi>Bohemia,</hi> to let her know how ill they reſented the buſineſs, and to know of her, whether they were not Maſters of their own Country? And to enquire how the Prince durſt break any order they had made? And withall, to certifie her, that he ſhould ſeverely ſuffer for his contempt: This Meſſage be<g ref="char:EOLhyphen"/>ing delivered to the <hi>Queen,</hi> in the preſence of her ſon <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ward,</hi> he would willingly have excuſed the buſi<g ref="char:EOLhyphen"/>neſs, and ſaid; that ſome of the Embaſſadours fol<g ref="char:EOLhyphen"/>lowers gave him (as he was walking with a Lady) the firſt affront, which was the occaſion that he re<g ref="char:EOLhyphen"/>turned them that uncivil language.</p>
+            <p>It is reported, that the ſaid Prince is going towards <hi>Franckendale,</hi> for the Letters that came this Week
+<pb n="5" facs="tcp:165838:4"/> from <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmany</hi> inform us, that the King of <hi>Spain</hi> hath ſent an expreſs, for the re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranckenda<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> to the Prince Elector. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the States are reſolved [be<g ref="char:EOLhyphen"/>fore he departeth] to bring him before a Court of <hi>J<g ref="char:V">Ʋ</g>STICE,</hi> to teach him to keep a better tongue in his head another time; and we expect to have him ſeverely dealt withal. The <hi>Queens</hi> Court is grown very mute about this buſineſs, and Prince <hi>Edward</hi> is much ſtartled at it.</p>
+            <p>The fifth of <hi>April,</hi> the Lords Embaſſadours get up by ſeven a clock in the morning, and rode on horſe-back with ſome of their Gentlemen, to the Univerſity of <hi>Leyden,</hi> where having rode through the Town, and viewed the Academy and other ra<g ref="char:EOLhyphen"/>rities, returned about midday.</p>
+            <p>In the afternoon, the <hi>Princeſs Royal</hi> came by my Lord Embaſſadours houſe, in a Coach with ſix hor<g ref="char:EOLhyphen"/>ſes, all in mourning, and two more coaches (in the ſame equipage) attending her; it ſeems ſhe is not gone with the Duke her brother, as was reported: certain it is, ſhe did reſolve to go, but upon encou<g ref="char:EOLhyphen"/>ragements frome ſome, ſhe ſtaid. It is to bee feared, that though her husband be dead, too many of his creatures are alive: yet doubtleſs, the States ſee ſo much of their own intereſt in ours, that we ſhall re<g ref="char:EOLhyphen"/>ceive a quick and cordial diſpatch. Though I hear, that there came once hither a French Embaſſadour, about buſineſs of a far leſs import, which he thought to have diſpatched in a moneths time, but was fain to ſtay thirteen, before he could make an end of it. But (we hope) their goodneſs (perhaps) our own diſcretion, will not permit us to do ſo.</p>
+            <pb n="6" facs="tcp:165838:5"/>
+            <p> The States about three a clock this afternoon, ſent the Commiſſioners appointed to treat with our Em<g ref="char:EOLhyphen"/>baſſadours, who were entertained by their Lordſhips with much reſpect; who delivered certain pap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs from the States directed to their Lordſhips, wherein they propoſe; Firſt, that the old Correſpondencies and Amity between the two States may be preſerved and renewed; Secondly, that they may enter into a more ſtrict <hi>Confederacy;</hi> And laſtly, that one ſhould be aiding and aſſiſting unto another, againſt all per<g ref="char:EOLhyphen"/>ſons whatſoever that ſhould diſturb them.</p>
+            <p>The States have referred Prince <hi>Edwards</hi> buſineſs to be determined ſpeedily in a Court of Juſtice; and without queſtion it concerns them to ſee us have Ju<g ref="char:EOLhyphen"/>ſtice in this particular; For it was <hi>England</hi> received the affront done by that petty Prince, whoſe Nur<g ref="char:EOLhyphen"/>ſing was paid for out of the <hi>Engliſh</hi> Exchequer: And therefore we are confident thoſe in power here a<g ref="char:EOLhyphen"/>mong the <hi>Dutch,</hi> cannot but conſult ſo far with their own honors, as to make a the Vindication, anſwerable to the crime. The young P. of <hi>Orange</hi> hath been much troubled with convulſion fits, inſomuch that it was commonly reported he departed in one of thoſe fits; but ſince he is recovered, and is now in health.</p>
+            <p>There is daily expected here, an Embaſſadour from the King of <hi>Scotland,</hi> whoſe entertainment we de<g ref="char:EOLhyphen"/>ſire to take a view of, for thereby we may gueſs whether they are really affected to the Common<g ref="char:EOLhyphen"/>wealth of England or not. Take this from the hand of</p>
+            <closer>
+               <signed>Your humble Servant, <hi>EDWARD BILL.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
